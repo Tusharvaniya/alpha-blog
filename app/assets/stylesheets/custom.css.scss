@@ -40,6 +40,11 @@
    background-color: darkgreen;
  }
 
+ .article-meta-details{
+   border-top: 1px solid #eaeaea;
+   margin-top: 15px;
+ }
+
  .article-actions{
    border-top: 1px solid #eaeaea;
    padding-top: 5px;
@@ -55,6 +60,10 @@
 border-top: 1px solid #eaeaea;
    padding-bottom: 15px;
    padding-top: 15px;
+ }
+ .listing{
+   list-style: none;
+   padding-left: 0;
  }
 
 
